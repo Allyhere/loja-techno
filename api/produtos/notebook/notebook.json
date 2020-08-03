@@ -1,0 +1,20 @@
+{
+  "id":"notebook",
+  "nome":"notebook",
+  "preco":"2999",
+  "descricao":"lorem",
+  "estoque":12,
+  "img": "./api/produtos/notebook/notebook-foto.jpg",
+  "avaliacoes":[
+    {
+      "nome":"Fabio",
+      "estrelas": 5,
+      "descricao":"Atendeu as expectativas"
+    }, 
+    {
+      "nome":"Patricia",
+      "estrelas": 4,
+      "descricao":"Muito bom mas veio mal embalado"
+    } 
+  ]
+}
